@@ -326,19 +326,19 @@
     .page2 {
         text-align: center;
         gap: 30px;
-        height: 120vh;
+        height: 140vh;
     }
 
     .page1 {
-        height: 120vh;
+        height: 130vh;
     }
 
     .page5 {
-        height: 150vh;
+        height: 170vh;
     }
 
     .page6 {
-        height: 150vh;
+        height: 170vh;
     }
 
     .page1-left,
@@ -380,7 +380,7 @@
     }
 
     .page3 {
-        height: 110vh;
+        height: 120vh;
     }
 
     .page3-top,
@@ -388,10 +388,6 @@
         width: 100%;
 
 
-    }
-
-    .page6 {
-        height: 145vh;
     }
 
     .page3-bottom {
@@ -430,7 +426,7 @@
     }
 
     .page4 {
-        height: 110vh;
+        height: 120vh;
         flex-direction: column-reverse;
         gap: 30px;
     }
